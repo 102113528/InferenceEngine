@@ -1,0 +1,5 @@
+TELL
+R; ~U; R & U => W;
+
+ASK
+W
